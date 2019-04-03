@@ -9,7 +9,7 @@ import android.view.MenuItem;
 
 /**
  NAME: MUYOMBO GODFREY
- REGNO: 2017/BIT/106/PS
+ REGNO: 2017BIT106PS
  */
 
 public class MainActivity extends AppCompatActivity {
